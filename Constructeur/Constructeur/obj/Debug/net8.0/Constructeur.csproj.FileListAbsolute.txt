@@ -1,0 +1,14 @@
+C:\Users\remim\source\repos\Constructeur\Constructeur\bin\Debug\net8.0\Constructeur.exe
+C:\Users\remim\source\repos\Constructeur\Constructeur\bin\Debug\net8.0\Constructeur.deps.json
+C:\Users\remim\source\repos\Constructeur\Constructeur\bin\Debug\net8.0\Constructeur.runtimeconfig.json
+C:\Users\remim\source\repos\Constructeur\Constructeur\bin\Debug\net8.0\Constructeur.dll
+C:\Users\remim\source\repos\Constructeur\Constructeur\bin\Debug\net8.0\Constructeur.pdb
+C:\Users\remim\source\repos\Constructeur\Constructeur\obj\Debug\net8.0\Constructeur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remim\source\repos\Constructeur\Constructeur\obj\Debug\net8.0\Constructeur.AssemblyInfoInputs.cache
+C:\Users\remim\source\repos\Constructeur\Constructeur\obj\Debug\net8.0\Constructeur.AssemblyInfo.cs
+C:\Users\remim\source\repos\Constructeur\Constructeur\obj\Debug\net8.0\Constructeur.csproj.CoreCompileInputs.cache
+C:\Users\remim\source\repos\Constructeur\Constructeur\obj\Debug\net8.0\Constructeur.dll
+C:\Users\remim\source\repos\Constructeur\Constructeur\obj\Debug\net8.0\refint\Constructeur.dll
+C:\Users\remim\source\repos\Constructeur\Constructeur\obj\Debug\net8.0\Constructeur.pdb
+C:\Users\remim\source\repos\Constructeur\Constructeur\obj\Debug\net8.0\Constructeur.genruntimeconfig.cache
+C:\Users\remim\source\repos\Constructeur\Constructeur\obj\Debug\net8.0\ref\Constructeur.dll
